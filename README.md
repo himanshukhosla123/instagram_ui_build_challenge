@@ -17,4 +17,4 @@ It consists of basic functionalities:-
 
 Note- If any error arises - clear localstorage and retest
 
-Hosted Link- https://himanshukhosla123.github.io/instagram_ui_build_challenge/
+Steps to start the server- npm start
