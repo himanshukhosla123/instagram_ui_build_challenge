@@ -1,0 +1,42 @@
+
+body{
+  height: 100%;
+  /* overflow-x: hidden; */
+  padding-top:60px;
+}
+
+.g47SY{
+  padding:5px;
+  display:"inline-block";
+  font-weight: 700;
+}
+
+.black{
+  color:black !important
+}
+
+.nav>li>a.black{
+  padding:10px;
+}
+
+@media(max-width:768px){
+  .profile-info{
+    text-align: center !important;
+  }
+  .nav>li>a.black{
+    width:33%;
+    float: left;
+  }
+  .info img{
+    height: 70px;
+    margin-bottom: 5px;
+  }
+}
+
+.header{
+  position:fixed !important;
+  top:0px;
+  left: 0;
+  width: 100%;
+  z-index:1000;
+}
