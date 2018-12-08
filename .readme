@@ -9,4 +9,12 @@ Due to less time couldnot test on dimensions of less than 400.
 
 It consists of basic functionalities:-
 
-1. 
+1. List View of all Posts.
+2. Add Post.
+3. Edit/View Post
+4. Like,unlike,delete,comments with local December (will be there after refresh)
+5. Fully Responsive
+
+Note- If any error arises - clear localstorage and retest
+
+Hosted Link- https://himanshukhosla123.github.io/instagram_ui_build_challenger/
